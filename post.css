@@ -1,0 +1,68 @@
+
+.container{
+    margin-left: 30%;
+    margin-right: 10%;
+    background-color: lavender;
+    border: 1px solid black;
+    
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+
+figure{
+    float: left;
+    text-align: center;
+}
+
+img{
+    max-width: 140px;
+    max-height: 140px;
+}
+
+footer .left{
+    float: left;
+}
+footer .left h3{
+    padding-left: 20px;
+    text-align: center;
+    
+}
+
+footer .left ul li{
+    display: inline;
+}
+ 
+footer .left img{
+    width: 40px;
+    height: 40px;
+    padding: 1px;
+       
+}
+
+button{
+    margin-left: 55%;
+    background-color: burlywood;
+   
+}
+
+footer .left{
+    float: left;
+   
+}
+ footer{
+     border: 2px solid black;
+     margin-top: 20px;
+     height: 200px;
+     padding: 30px;
+     background-color:indianred;
+ }
+
+ footer .right{
+     margin-left: 250px;
+ }
+footer .right p{
+    font-size: medium;
+}
